@@ -56,7 +56,7 @@ New Applicant Prediction
 
 Run the Python program:
 
-python credit_risk.py
+python main.py
 
 The program will:
 
