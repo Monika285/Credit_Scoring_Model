@@ -68,3 +68,6 @@ Generate comparison results
 Generate graphs
 Generate a confusion matrix
 Predict the credit category of a sample applicant
+
+<img width="1897" height="937" alt="image" src="https://github.com/user-attachments/assets/34d200e4-0007-41ea-b048-fb5f72327714" />
+
