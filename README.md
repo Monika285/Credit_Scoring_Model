@@ -51,3 +51,20 @@ New Applicant Prediction
 Model Comparison
    ↓
 New Applicant Prediction
+
+▶️ How to Run
+
+Run the Python program:
+
+python credit_risk.py
+
+The program will:
+
+Load the dataset
+Clean and preprocess the data
+Train the classification models
+Evaluate the models
+Generate comparison results
+Generate graphs
+Generate a confusion matrix
+Predict the credit category of a sample applicant
