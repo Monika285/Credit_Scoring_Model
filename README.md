@@ -1,4 +1,3 @@
-Credit Risk Classification using Machine Learning
 📌 Project Overview
 
 This project uses Machine Learning classification algorithms to predict the credit risk category of applicants based on their financial and personal information.
